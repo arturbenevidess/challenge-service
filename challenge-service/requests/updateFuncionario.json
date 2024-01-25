@@ -1,0 +1,9 @@
+{
+    "resource": "/",
+    "path": "/",
+    "httpMethod": "PUT",
+    "pathParameters": {
+        "id": "100"
+    },
+    "body": "{\"ID\":\"123\",\"Nome\":\"João\",\"Cargo\":\"Programador\",\"Idade\":\"33\"}"
+}
